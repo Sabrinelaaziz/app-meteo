@@ -1,0 +1,17 @@
+body {
+/*background: linear-gradient(to right, #1e3c72, #2a5298);*/
+background:url(../images/des-nuages-noirs-sur-le-terrain.jpg) ;
+  color: white;
+  padding-top: 50px;
+}
+
+.weather-box {
+  background: rgba(255, 255, 255, 0.1);
+  padding: 30px;
+  border-radius: 15px;
+  text-align: center;
+}
+
+.hidden {
+  display: none;
+}
