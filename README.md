@@ -28,5 +28,5 @@
 1. Clonez ce dépôt :
 
    ```bash
-   git clone https://github.com/votre-utilisateur/app-meteo.git
+   git clone https://github.com/Sabrinelaaziz/app-meteo.git
    cd app-meteo
